@@ -23,7 +23,7 @@ intern in 2025 and was hired as a developer in January 2026.
 
 ## What I've shipped
 
-**Glucose monitoring app** — React Native (Expo) with a Java (Spring Boot) backend.
+React Native (Expo) with a Java (Spring Boot) backend.
 Built from scratch and published on Google Play and the App Store, including release
 builds, signing and the store review process.
 
